@@ -5,13 +5,13 @@ To clean the Wealth of Nations data set using Excel and visualize the cleaned da
 
 Datas:
 
-Rank
+   Rank
 
-Country per GDP
+   Country per GDP
 
-Year of Information
+   Year of Information
 
-Techniques used:
+   Techniques used:
 
 Format a table
 
