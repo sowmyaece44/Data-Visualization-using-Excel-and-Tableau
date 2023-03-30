@@ -17,10 +17,6 @@ Filter for the year 2019
 
 Sort for top 20 highest ranking countries
 
-Importing data
-
-Import the cleaned data into Tableau and created charts
-
 
 https://public.tableau.com/views/Analysisofthewealthofnations/Analysisofthewealthofnations?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
