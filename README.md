@@ -1,8 +1,10 @@
 # Data-Visualization-using-Excel-and-Tableau
 Aim:
+
 To clean the Wealth of Nations data set using Excel and visualize the cleaned data in Tableau
 
 Datas:
+
 Rank
 
 Country per GDP
@@ -10,6 +12,7 @@ Country per GDP
 Year of Information
 
 Techniques used:
+
 Format a table
 
 Filter for the year 2019
