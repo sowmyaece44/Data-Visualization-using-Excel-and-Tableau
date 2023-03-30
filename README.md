@@ -7,7 +7,7 @@ Datas:
 
 Rank, 
 Country per GDP,
-Year of Information,
+Year of Information
 
 Techniques used:
 
@@ -16,10 +16,6 @@ Format a table
 Filter for the year 2019
 
 Sort for top 20 highest ranking countries
-
-Macro Buttons
-
-Added header and Footer
 
 Importing data
 
