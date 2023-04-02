@@ -1,15 +1,15 @@
 # Data-Visualization-using-Excel-and-Tableau
-Aim:
+# Aim:
 
 To clean the Wealth of Nations data set using Excel and visualize the cleaned data in Tableau
 
-Datas:
+# Datas:
 
 Rank, 
 Country per GDP,
 Year of Information
 
-Techniques used:
+# Techniques used:
 
 Format a table
 
